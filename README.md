@@ -6,7 +6,7 @@ I'm a student majoring in Computer Science in University Of Seoul, Korea.
 | ------------- | ------------- |
 
 # Skills
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pristo2463)](https://solved.ac/pristo2463)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pristo2463)](https://solved.ac/pristo2463)
 
 ### Languages
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
