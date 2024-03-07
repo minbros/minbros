@@ -10,6 +10,7 @@ I'm a student majoring in Computer Science in University Of Seoul, Korea.
 
 ### Languages
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/c-8F9BAB?style=for-the-badge&logo=c&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/></a>
