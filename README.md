@@ -20,7 +20,5 @@ I'm a student majoring in Computer Science in University Of Seoul, Korea.
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
 
-# My Pages
-### Blog
-<a href="https://noteformin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF8651?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
-<br>
+<a href="https://noteformin.tistory.com/" target="_blank"><img align="right" src="https://img.shields.io/badge/Tistory-FF8651?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="mailto:pristo24631@gmail.com" target="_blank"><img align="right" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
