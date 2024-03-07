@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
+ I'm a student majoring in Computer Science in University Of Seoul, Korea.
+ 
 <!--
 **minbros/minbros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://noteformin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FFA65E?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://noteformin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-FF8651?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact)
