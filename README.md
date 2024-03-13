@@ -2,7 +2,7 @@
 I'm a student majoring in Computer Science in University Of Seoul, Korea.
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&rank_icon=github&theme=buefy&hide_border=true" alt="Minhyung Kim's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&rank_icon=github&theme=buefy&hide_border=true" alt="Kim Minhyung's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 # Skills
