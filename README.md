@@ -1,5 +1,5 @@
 # Hi there 👋
-<p align="center"><img src="MIN_NoComp_Horizontal.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://github.com/minbros/minbros/assets/127458006/0baadfaa-bf4a-4c25-9213-e547bc5cf355" width="50%" height="50%"></p>
 I'm a student majoring in Computer Science in University Of Seoul, Korea.
 <br><br>
 
