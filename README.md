@@ -1,8 +1,7 @@
 # Hi there 👋
-<p aling="center"><img src="MIN_NoComp.png" width="600px" height="600px"></p>
-<br>
+<p align="center"><img src="MIN_NoComp_Horizontal.png" width="50%" height="50%"></p>
 I'm a student majoring in Computer Science in University Of Seoul, Korea.
-<br>
+<br><br>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&rank_icon=github&theme=buefy&hide_border=true" alt="Kim Minhyung's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
