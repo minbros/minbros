@@ -1,4 +1,6 @@
 # Hi there 👋
+<p aling="center"><img src="MIN_NoComp.png" width="600px" height="600px"></p>
+<br>
 I'm a student majoring in Computer Science in University Of Seoul, Korea.
 <br>
 
