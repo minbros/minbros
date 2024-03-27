@@ -6,7 +6,7 @@ I'm a student majoring in Computer Science in University of Seoul, Korea.
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&rank_icon=github&theme=buefy&hide_border=true" alt="Kim Minhyung's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-# Tech Stack 📚
+# 📚 Tech Stack 
 ### Languages & Platforms
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF"/></a>
