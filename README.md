@@ -10,9 +10,12 @@ I'm a student majoring in Computer Science in University Of Seoul, Korea.
 ### Languages & Platforms
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=212121"/></a>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
+
 
 <a href="https://noteformin.tistory.com/" target="_blank"><img align="right" src="https://img.shields.io/badge/Tistory-FF8651?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:realminbros@gmail.com" target="_blank"><img align="right" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
