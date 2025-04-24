@@ -9,7 +9,7 @@ I'm a student majoring in Computer Science in University Of Seoul, Korea.
 # 📚 Tech Stack 
 ### Languages & Platforms
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=212121"/></a>
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
