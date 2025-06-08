@@ -15,5 +15,4 @@ I'm a student majoring in Computer Science in University Of Seoul, Korea.
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
 
 
-<a href="https://noteformin.tistory.com/" target="_blank"><img align="right" src="https://img.shields.io/badge/Tistory-FF8651?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="mailto:realminbros@gmail.com" target="_blank"><img align="right" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
