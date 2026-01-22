@@ -3,7 +3,7 @@
 I'm a student majoring in Computer Science in University of Seoul, Korea!
 <br><br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true" alt="Kim Minhyung's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kim Minhyung's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 # 📚 Tech Stack 
