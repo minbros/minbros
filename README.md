@@ -1,17 +1,28 @@
-# Hi there 👋
-<p align="center"><img src="https://github.com/minbros/minbros/assets/127458006/0baadfaa-bf4a-4c25-9213-e547bc5cf355" width="50%"></p>
-I'm a student majoring in Computer Science in University of Seoul, Korea!
-<br><br>
+<div align="center">
+  <img src="https://github.com/minbros/minbros/assets/127458006/0baadfaa-bf4a-4c25-9213-e547bc5cf355" width="50%">
+</div>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=minbros&show_icons=true&theme=transparent&hide_border=true" alt="Kim Minhyung's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbros&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 👋 안녕하세요 
+**전체적인 시스템을 빠르게 설계하고, 이를 바탕으로 고객과 소통하는 개발자** 김민형입니다.
 
-# 📚 Tech Stack 
-<img src="https://github.com/user-attachments/assets/896060f0-4892-4406-9b22-157ea620ad12" width="80"></a>
-<img src="https://github.com/user-attachments/assets/51ce0257-507e-47f7-b911-5de830218078" width="80"></a>
-<img src="https://github.com/user-attachments/assets/24c29f8c-5c68-45b0-9048-9ca185f0d44c" width="80"></a>
-<img src="https://github.com/user-attachments/assets/7d81bdd0-74ab-4dc1-a72d-58b62340c331" width="80"></a>
-<img src="https://github.com/user-attachments/assets/3db4d075-d5d7-4518-bf88-61fc8be002ef" width="80"></a>
-<img src="https://github.com/user-attachments/assets/f001f4b1-b55a-48b8-9841-c8d0c6575ff5" width="80"></a>
-<img src="https://github.com/user-attachments/assets/ede06b3e-c476-4abf-acf5-f6618fb41eda" width="80"></a>
-<img src="https://github.com/user-attachments/assets/7ee68583-2952-4bea-bac1-2ac3e1ec11e0" width="80"></a>
+<br>
+
+## ✅ 활동 이력
+| 활동 단체 | 활동 기간 |
+|:---:|:---:|
+| 서울시립대학교 개발동아리 QUIPU | 2024.07 ~ 2025.02 |
+| 서울시립대학교 창업동아리 인액터스 | 2025.04 ~ 2025.10 |
+| 프로그래머스 데브코스 백엔드 단기심화 2기 | 2025.11 ~ 2026.01 |
+| AI·SW 마에스트로 17기 | 2026.04 ~ |
+
+<br>
+
+## 💡 자격증
+| 자격증 | 취득 날짜 |
+|:---:|:---:|
+| PCCP Lv.4 (Python) | 2026.02 |
+
+<br>
+
+## 📚 기술 스택 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,mongodb,elasticsearch,prometheus,grafana,githubactions,aws,gcp,docker,kubernetes,linux&theme=light&perline=8)](https://skillicons.dev)
